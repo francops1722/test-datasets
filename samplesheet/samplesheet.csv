@@ -1,0 +1,2 @@
+sample,fastq_1,fastq_2,N_barcodes,barcode_file,sample_size,len_barcode,Nthresh,Ntriage
+S01,/testdata/rawfastq/Sample01_R1.fastq.gz,/testdata/rawfastq/Sample01_R2.fastq.gz,34500,/testdata/barcodes_coords.csv,10000,36,9,1000
